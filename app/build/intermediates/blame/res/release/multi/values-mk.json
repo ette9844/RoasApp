@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\is\\Desktop\\Folder\\demo_pres\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mk\\values-mk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 195,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\is\\.android\\build-cache\\19b57a31f59d5d9fb867d1bace8b8e8402b0fcf0\\output\\res\\values-mk\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 195,
+                        "endOffset": 480
+                    }
+                }
+            }
+        ]
+    }
+]

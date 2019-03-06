@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="180dp"
+    tools:context="com.demo.project.roas.demo2.LoginPopup"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="담을 수량 조절"
+        android:layout_gravity="center"
+        android:padding="5dp"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#ffffff"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/num_warning"
+            android:paddingTop="7dp"
+            android:layout_centerHorizontal="true"
+            android:text=""
+            android:textSize="15dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/num_linear"
+            android:layout_centerInParent="true">
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="40dp"
+                android:id="@+id/num_minus"
+                android:text="-"
+                android:textSize="30dp"
+                android:textColor="#ffffff"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
+                android:background="@color/colorPrimary"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/num"
+                android:text="1"
+                android:textSize="30dp"
+                android:textColor="#000000"
+                android:padding="30dp"/>
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="40dp"
+                android:id="@+id/num_plus"
+                android:text="+"
+                android:textSize="30dp"
+                android:textColor="#ffffff"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
+                android:background="@color/colorPrimary"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="담기"
+        android:layout_gravity="center"
+        android:padding="5dp"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffff"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp"
+        android:id="@+id/getCartBtn"/>
+
+</LinearLayout>

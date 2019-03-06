@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Deveolpe\\android\\Temp\\demo_last\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "D:\\Deveolpe\\android\\Temp\\demo_last\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\roas_1112\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "C:\\Users\\pc\\Desktop\\roas_1112\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\is\\Desktop\\Folder\\demo_pres\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "C:\\Users\\is\\Desktop\\Folder\\demo_pres\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\demo_pres\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "C:\\Users\\pc\\Desktop\\demo_pres\\app\\src\\main\\res\\xml\\file_paths.xml"
+    }
+]

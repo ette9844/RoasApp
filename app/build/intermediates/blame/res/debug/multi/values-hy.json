@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "C:\\Users\\pc\\Desktop\\roas_1112\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 209,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\.android\\build-cache\\5861bbece31a7a719ba30d533d24f1a8dd48dd9d\\output\\res\\values-hy\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 209,
+                        "endOffset": 494
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\is\\Desktop\\Folder\\demo_pres\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 209,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\is\\.android\\build-cache\\19b57a31f59d5d9fb867d1bace8b8e8402b0fcf0\\output\\res\\values-hy\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 209,
+                        "endOffset": 494
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\pc\\Desktop\\demo_pres\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 209,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\.android\\build-cache\\5861bbece31a7a719ba30d533d24f1a8dd48dd9d\\output\\res\\values-hy\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 209,
+                        "endOffset": 494
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Deveolpe\\android\\Temp\\demo_last\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 209,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\is\\.android\\build-cache\\4d2b01dfcf0de9e9b2904b9d05bcd48691b3cf1a\\output\\res\\values-hy\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 209,
+                        "endOffset": 494
+                    }
+                }
+            }
+        ]
+    }
+]

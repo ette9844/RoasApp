@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\0d4503211d051c4111a344458ef8602180e47fa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\pc\Desktop\roas_1112\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9f93715310da33029c90fb8e49eeaf1ee8e02e5\classes.dex" />
+    </item>
+
+</items>
